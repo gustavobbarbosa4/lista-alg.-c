@@ -2,7 +2,7 @@
 
 int main() {
     int numero, antecessor;
-    
+
     printf("Digite um numero: ");
     scanf("%d", &numero);
 
